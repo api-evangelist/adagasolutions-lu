@@ -66,7 +66,7 @@
 
 Adaga solutions is a Luxembourg-based full‑stack and AI development studio that builds production‑ready web applications and monetized data APIs. The company operates real‑world SaaS multi‑tenant systems, real‑time dispatch, Stripe LIVE payments, and over 11 APIs on Apify, with RAG‑powered document retrieval handling thousands of documents. Its services are used by clients in Luxembourg, France, Belgium and Portugal, focusing on robust, scalable solutions rather than demos.
 
-**Areas:** Company · Full-stack Development · Artificial Intelligence · SaaS · Luxembourg · API Provider
+**Areas:** Company · Full-stack Development · Artificial Intelligence · Software-as-a-Service · Luxembourg
 
 ## adagasolutions-lu on APIs.io
 
@@ -80,17 +80,23 @@ Everything profiled for adagasolutions-lu is published on APIs.io rather than in
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adagasolutions-lu-mcp.yml](https://apis.io/servers/adagasolutions-lu/adagasolutions-lu-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adagasolutions Lu Domain Security](https://apis.io/security/adagasolutions-lu/adagasolutions-lu-domain-security/)
+- [adagasolutions-lu Domain Security](https://apis.io/security/adagasolutions-lu/adagasolutions-lu-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adagasolutions Lu Plans Pricing](https://apis.io/plans/adagasolutions-lu/adagasolutions-lu-plans-pricing/)
+- [adagasolutions-lu Plans Pricing](https://apis.io/plans/adagasolutions-lu/adagasolutions-lu-plans-pricing/)
 
 ## Where to find this API
 
@@ -102,18 +108,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 13.3** — emerging · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 12.9** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 75.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 5.3 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 9.5 |
-| Access clarity | 28.4 |
+| Access clarity | 25.5 |
 
-**Agent readiness 4.5** — human-only
+**Agent readiness 4.8** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -138,8 +144,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adagasolutions-lu/](https://apis.io/providers/adagasolutions-lu/).
 
